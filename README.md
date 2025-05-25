@@ -22,9 +22,9 @@ A simple boxing scoring app built with [Kivy](https://kivy.org/) that lets you t
 
 ```bash
 pip install kivy
-
-3. Download or clone this repository
 ```
+3. Download or clone this repository
+
 ## Running the App
 Run the main Python file:
 
